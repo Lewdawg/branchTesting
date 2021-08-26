@@ -7,6 +7,12 @@
       temporibus incidunt debitis quibusdam, recusandae ab facere ipsum numquam,
       autem iure fugit at dolorum? Fugiat sint laborum consequuntur repudiandae!
     </p>
+    <h3>Second Paragraph</h3>
+    <p>
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat illum
+      facere neque assumenda ratione saepe animi porro impedit incidunt
+      accusantium.
+    </p>
   </div>
 </template>
 
@@ -36,5 +42,9 @@ h1 {
 
 p {
   color: blue;
+}
+
+.container p:last-child {
+  color: yellow;
 }
 </style>
