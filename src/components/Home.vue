@@ -29,4 +29,12 @@ export default {
 
   padding: 20px 70px;
 }
+
+h1 {
+  color: red;
+}
+
+p {
+  color: blue;
+}
 </style>
